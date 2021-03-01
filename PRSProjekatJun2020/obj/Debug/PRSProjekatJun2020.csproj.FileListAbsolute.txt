@@ -1,0 +1,30 @@
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.exe.config
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.exe
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.pdb
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\bin\Debug\MathNet.Numerics.dll
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\bin\Debug\MathNet.Numerics.xml
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csprojAssemblyReference.cache
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csproj.CoreCompileInputs.cache
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csproj.CopyComplete
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.exe
+C:\Users\v-dihadz\source\repos\PRSProjekatJun2020\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.pdb
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.exe.config
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.exe
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.pdb
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\bin\Debug\MathNet.Numerics.dll
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\bin\Debug\MathNet.Numerics.xml
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csproj.CoreCompileInputs.cache
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csproj.CopyComplete
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.exe
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.pdb
+C:\Users\v-dihadz\Desktop\PRS Projekti\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csprojAssemblyReference.cache
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.exe.config
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.exe
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\bin\Debug\PRSProjekatJun2020.pdb
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\bin\Debug\MathNet.Numerics.dll
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\bin\Debug\MathNet.Numerics.xml
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csprojAssemblyReference.cache
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csproj.CoreCompileInputs.cache
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.csproj.CopyComplete
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.exe
+C:\Users\v-dihadz\Desktop\Dino\PRSProjekatJun2020\obj\Debug\PRSProjekatJun2020.pdb
